@@ -1,0 +1,1 @@
+{"devices":[{"manufacturerName":"TJYJ","manufacturerId":"7ab57620b5d747259d99065295a28bed","model":"V1_0","protocolType":"LWM2M","deviceType":"Bulb","serviceTypeCapabilities":[{"serviceId":"switch_button","serviceType":"switch_button","option":""},{"serviceId":"changeBuleColor","serviceType":"changeBuleColor","option":""}],"omCapability":null}]}
